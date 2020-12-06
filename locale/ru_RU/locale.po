@@ -1600,16 +1600,11 @@ msgstr "Больше информации об этой издательской
 msgid "about.aboutThisPublishingSystem.altText"
 msgstr "Редакционный и издательский процесс OJS"
 
+msgid "about.aboutSoftware"
+msgstr "Об Open Journal Systems"
+
 msgid "about.aboutOJSJournal"
-msgstr ""
-"Этот журнал использует Open Journal Systems {$ojsVersion}, которая является "
-"программным обеспечением с открытым исходным кодом для управления журналами "
-"и их публикации. Данное программное обеспечение разработано, поддерживается "
-"и свободно распространяется Public Knowledge Project по лицензии GNU General "
-"Public License. Посетите сайт PKP, чтобы <a href=\"http://pkp.sfu.ca/\">"
-"узнать больше о данном ПО</a>. Пожалуйста, <a href=\"{$contactUrl}\">"
-"свяжитесь с журналом</a> напрямую, если у Вас есть вопросы о журнале и "
-"отправке материалов в данный журнал."
+msgstr "Этот журнал использует Open Journal Systems {$ojsVersion}, которая является программным обеспечением с открытым исходным кодом для управления журналами и их публикации. Данное программное обеспечение разработано, поддерживается и свободно распространяется Public Knowledge Project по лицензии GNU General Public License. Посетите сайт PKP, чтобы <a href=\"http://pkp.sfu.ca/\">узнать больше о данном ПО</a>. Пожалуйста, <a href=\"{$contactUrl}\">свяжитесь с журналом</a> напрямую, если у Вас есть вопросы о журнале и отправке материалов в данный журнал."
 
 msgid "about.aboutOJSSite"
 msgstr ""
