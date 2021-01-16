@@ -2113,9 +2113,6 @@ msgstr "Сортировка статей"
 msgid "catalog.sortBy.categoryDescription"
 msgstr "Выберите способ сортировки статей в этой категории."
 
-msgid "about.aboutSoftware"
-msgstr "Об Open Journal Systems"
-
 msgid "installer.updatingInstructions"
 msgstr ""
 "Если вы обновляете существующую инсталляцию OJS, <a href=\"{$upgradeUrl}\">"
