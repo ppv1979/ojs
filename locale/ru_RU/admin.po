@@ -98,6 +98,9 @@ msgstr "Путь может содержать только буквы, цифр
 msgid "admin.contexts.form.pathExists"
 msgstr "Указанный Вами путь уже используется другим журналом."
 
+msgid "admin.contexts.form.primaryLocaleNotSupported"
+msgstr "Основным языком должен быть один из языков, поддерживаемых журналом."
+
 msgid "admin.journals.enableJournalInstructions"
 msgstr "Включить показ этого журнала для всех на сайте"
 
